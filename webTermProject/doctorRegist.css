@@ -1,0 +1,31 @@
+﻿body {
+background-color: lightblue;
+font-family: Arial;
+}
+
+.auto-style2 {
+width: 456px;
+height: 192px;
+}
+
+.auto-style4 {
+width: 123px;
+}
+
+.auto-style5 {
+width: 172px;
+}
+
+.baslik {
+color: white;
+text-decoration:underline;
+}
+
+.auto-style8 {
+width: 153px;
+height: 182px;
+}
+
+a {
+color: red;
+}

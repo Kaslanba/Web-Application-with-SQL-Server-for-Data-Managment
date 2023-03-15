@@ -1,0 +1,13 @@
+﻿body {
+    background-color: lightblue;
+    font-family: Arial
+}
+
+.baslik {
+    color: white;
+    text-decoration: underline;
+}
+
+a {
+    color: red;
+}
